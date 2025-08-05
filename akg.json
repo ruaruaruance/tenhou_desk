@@ -1,0 +1,11 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/ruaruaruance/tenhou_desk/main/akagi/akg_pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/ruaruaruance/tenhou_desk/main/akagi/akg_kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/ruaruaruance/tenhou_desk/main/akagi/akg_chi.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/ruaruaruance/tenhou_desk/main/akagi/akg_rich.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/ruaruaruance/tenhou_desk/main/akagi/akg_ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/ruaruaruance/tenhou_desk/main/akagi/akg_tumo.wav"},
+  }
+}
